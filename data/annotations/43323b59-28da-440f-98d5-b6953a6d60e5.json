@@ -2296,39 +2296,6 @@
         }
       ],
       "uuid": "706d2641-74c6-4fb1-9315-f57f553e5304"
-    },
-    {
-      "start_time": 71,
-      "end_time": 73,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "They return to the hearth."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Verse Structure",
-          "category": "Form"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "c82e014b-dce1-4db9-8697-bbeaeaf807ce"
     }
   ],
   "set": "Default",
