@@ -2454,31 +2454,6 @@
         }
       ],
       "uuid": "9bf62ffb-13e3-481a-b68c-a595ff8876d9"
-    },
-    {
-      "start_time": 83,
-      "end_time": 86,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "it’s arms bursting with flames."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "45dfc9fe-b8fe-4a82-ac07-453348d67e62"
     }
   ],
   "set": "Default",
