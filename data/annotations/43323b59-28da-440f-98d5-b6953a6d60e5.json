@@ -34,35 +34,6 @@
       "uuid": "46e24a59-ea5c-4efe-92e7-5dbf45f4fa89"
     },
     {
-      "start_time": 6,
-      "end_time": 7,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "four red dresses."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "d9911434-0a7f-40d9-bd6a-007d9ff83fbc"
-    },
-    {
       "start_time": 8,
       "end_time": 10,
       "annotation": [
