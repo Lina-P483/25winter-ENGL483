@@ -707,27 +707,6 @@
       "uuid": "fc3bcca6-2e57-457d-ba65-b3b5057852fa"
     },
     {
-      "start_time": 0,
-      "end_time": 61,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "where people meditated"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "3564376d-b825-43b3-86ee-d63d05d31b05"
-    },
-    {
       "start_time": 61,
       "end_time": 62,
       "annotation": [
