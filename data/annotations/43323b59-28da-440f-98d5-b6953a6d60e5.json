@@ -34,35 +34,6 @@
       "uuid": "46e24a59-ea5c-4efe-92e7-5dbf45f4fa89"
     },
     {
-      "start_time": 5,
-      "end_time": 6,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "My husband has hung"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        }
-      ],
-      "uuid": "247c629b-82bc-4a36-a408-28b052455ac9"
-    },
-    {
       "start_time": 6,
       "end_time": 7,
       "annotation": [
