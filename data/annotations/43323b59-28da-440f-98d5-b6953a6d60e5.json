@@ -1807,35 +1807,6 @@
       "uuid": "67b94c2d-ef9e-40aa-bfb6-db752eab2138"
     },
     {
-      "start_time": 26,
-      "end_time": 27,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "for love."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Verse Structure",
-          "category": "Form"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "6c6b1c36-14c0-454f-8f41-6910f81cab49"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
