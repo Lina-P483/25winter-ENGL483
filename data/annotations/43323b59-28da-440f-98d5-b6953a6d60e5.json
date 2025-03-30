@@ -2098,31 +2098,6 @@
       "uuid": "3ea97c27-d0a1-4edb-8dd1-acf58c3a85ba"
     },
     {
-      "start_time": 53,
-      "end_time": 54,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "in the root of a tree."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Verse Structure",
-          "category": "Form"
-        }
-      ],
-      "uuid": "9acb6d59-a7ed-4323-88b5-02910d202ea8"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
