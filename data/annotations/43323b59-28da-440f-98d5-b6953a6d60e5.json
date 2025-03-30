@@ -1969,27 +1969,6 @@
       "uuid": "ebbd7751-9e23-4d5c-8482-36293368c824"
     },
     {
-      "start_time": 40,
-      "end_time": 42,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Smouldering hot embers"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "85886f99-0302-4a2c-b9f4-d971b0780b3f"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
