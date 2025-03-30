@@ -2819,35 +2819,6 @@
         }
       ],
       "uuid": "e9d99a25-2e96-4307-b3b5-272c1cd501ca"
-    },
-    {
-      "start_time": 140,
-      "end_time": 146,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "where our ancestors left their story. The pictographs right? so yeah."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "6c1310ae-dc2d-4a7e-98d7-2b6bd6293474"
     }
   ],
   "set": "Default",
