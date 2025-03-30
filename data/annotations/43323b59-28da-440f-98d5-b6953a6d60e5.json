@@ -1703,35 +1703,6 @@
       "uuid": "f1a3fe2e-e633-4ff4-979d-8f4efb86a3c9"
     },
     {
-      "start_time": 17,
-      "end_time": 18,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Birthdays, Christmas."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "46861dd5-b605-4f57-aed9-eb2a9b78d2d2"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
