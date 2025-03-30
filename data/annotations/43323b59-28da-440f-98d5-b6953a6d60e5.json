@@ -2479,31 +2479,6 @@
         }
       ],
       "uuid": "45dfc9fe-b8fe-4a82-ac07-453348d67e62"
-    },
-    {
-      "start_time": 87,
-      "end_time": 88,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Red dresses hanging"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        }
-      ],
-      "uuid": "a708e6c2-c870-4e75-a7c1-4deb22467425"
     }
   ],
   "set": "Default",
