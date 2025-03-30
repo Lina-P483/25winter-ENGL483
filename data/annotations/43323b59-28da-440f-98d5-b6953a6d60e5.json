@@ -3051,35 +3051,6 @@
         }
       ],
       "uuid": "38ae1421-7f99-42e8-9c99-cda69644dde7"
-    },
-    {
-      "start_time": 195,
-      "end_time": 201,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "ever far from us. They are in the wind, and that is one of the teachings of our Elders."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "07a6cde2-a30d-49c5-a9a0-165e53e60ceb"
     }
   ],
   "set": "Default",
