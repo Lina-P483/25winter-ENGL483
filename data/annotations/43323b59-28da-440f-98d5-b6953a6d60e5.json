@@ -1582,6 +1582,10 @@
         {
           "tag": "Amplitude",
           "category": "Performance"
+        },
+        {
+          "category": "Background",
+          "tag": "Context"
         }
       ],
       "uuid": "b5ec1cb2-7e02-4da8-8fc8-2fdf178471fa"
