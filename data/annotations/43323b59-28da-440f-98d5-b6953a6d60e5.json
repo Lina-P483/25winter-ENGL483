@@ -2761,35 +2761,6 @@
         }
       ],
       "uuid": "cdb79293-3e39-4526-a135-9dc7b04eff65"
-    },
-    {
-      "start_time": 124,
-      "end_time": 129,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "we, uh, our, our, our, our birth canal when our child is born"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "6694b71b-2c03-4c56-beab-64704136b720"
     }
   ],
   "set": "Default",
