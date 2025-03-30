@@ -2906,35 +2906,6 @@
         }
       ],
       "uuid": "8a225e17-598f-4a1e-8f7f-60671c7467cf"
-    },
-    {
-      "start_time": 158,
-      "end_time": 165,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "and increasingly, as I read about black women's stories, I see a lot of perill parallels"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "0ad4e714-857d-40c1-9328-2b4c7d815066"
     }
   ],
   "set": "Default",
