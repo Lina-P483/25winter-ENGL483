@@ -1786,27 +1786,6 @@
       "uuid": "5d2e486c-bf44-4ffe-bb47-a3adcb8756ad"
     },
     {
-      "start_time": 25,
-      "end_time": 26,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "accessories matched"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "67b94c2d-ef9e-40aa-bfb6-db752eab2138"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
