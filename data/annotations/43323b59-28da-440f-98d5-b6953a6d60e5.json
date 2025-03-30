@@ -2123,35 +2123,6 @@
       "uuid": "9acb6d59-a7ed-4323-88b5-02910d202ea8"
     },
     {
-      "start_time": 55,
-      "end_time": 57,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The red hand paintings"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Ambient Noise",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        }
-      ],
-      "uuid": "ae77b85e-0619-461e-abae-6a5beef1bac6"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
