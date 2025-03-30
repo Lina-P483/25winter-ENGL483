@@ -2587,35 +2587,6 @@
         }
       ],
       "uuid": "b7ef4a20-5907-4f61-a8b3-7fc3324c7fa2"
-    },
-    {
-      "start_time": 101,
-      "end_time": 104,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I think what's really important in this particular poem is that"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "afad9659-67a8-4ee9-98b0-5fa25cc3405c"
     }
   ],
   "set": "Default",
