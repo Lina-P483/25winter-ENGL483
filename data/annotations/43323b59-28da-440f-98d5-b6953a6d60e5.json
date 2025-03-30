@@ -1915,35 +1915,6 @@
       "uuid": "7e31b090-d6b0-4a61-890f-2bbad5f9102e"
     },
     {
-      "start_time": 35,
-      "end_time": 37,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Nohkom’s headkerchief."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        },
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        }
-      ],
-      "uuid": "0a00b4e0-bde7-423c-bad5-21962194b9b6"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
