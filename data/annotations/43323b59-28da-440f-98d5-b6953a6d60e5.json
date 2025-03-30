@@ -2065,39 +2065,6 @@
       "uuid": "f8fb536c-552d-422e-aa8d-16687c2ff473"
     },
     {
-      "start_time": 50,
-      "end_time": 52,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Its placenta buried"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        },
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        }
-      ],
-      "uuid": "3ea97c27-d0a1-4edb-8dd1-acf58c3a85ba"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
