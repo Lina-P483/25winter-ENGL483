@@ -1836,35 +1836,6 @@
       "uuid": "6c6b1c36-14c0-454f-8f41-6910f81cab49"
     },
     {
-      "start_time": 28,
-      "end_time": 29,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "My father butchering"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Ambient Noise",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        }
-      ],
-      "uuid": "c51b288d-e3f8-4359-8c38-acf2b25f6550"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
