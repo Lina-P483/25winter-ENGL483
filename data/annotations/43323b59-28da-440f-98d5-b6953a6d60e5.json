@@ -34,27 +34,6 @@
       "uuid": "46e24a59-ea5c-4efe-92e7-5dbf45f4fa89"
     },
     {
-      "start_time": 3,
-      "end_time": 4,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "are a grove of trees."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "250864fe-811b-4ada-9d9e-315cbf9a9b9d"
-    },
-    {
       "start_time": 5,
       "end_time": 6,
       "annotation": [
