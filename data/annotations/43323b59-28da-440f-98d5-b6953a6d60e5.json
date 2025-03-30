@@ -2645,35 +2645,6 @@
         }
       ],
       "uuid": "157d57d3-ce9e-4d8e-91a1-d95b410122ff"
-    },
-    {
-      "start_time": 109,
-      "end_time": 113,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "and,uh, red has become associated with, uh, that"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "866cc8f2-ed06-4f53-841d-96c97eab3b0d"
     }
   ],
   "set": "Default",
