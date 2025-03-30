@@ -34,31 +34,6 @@
       "uuid": "46e24a59-ea5c-4efe-92e7-5dbf45f4fa89"
     },
     {
-      "start_time": 8,
-      "end_time": 10,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I watch them sway and dance"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "b0b5e306-de46-4dde-92cb-b33e24f39257"
-    },
-    {
       "start_time": 11,
       "end_time": 13,
       "annotation": [
