@@ -2703,35 +2703,6 @@
         }
       ],
       "uuid": "f8bd092b-3483-4863-8a24-18471e64d873"
-    },
-    {
-      "start_time": 117,
-      "end_time": 120,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "and I'm terribly, I feel terrible, terrible about that"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "983de96c-9a68-4064-8a54-d59b09edbfdb"
     }
   ],
   "set": "Default",
