@@ -2221,31 +2221,6 @@
         }
       ],
       "uuid": "c9759593-094f-44d2-8d5d-a5c993ab3e3d"
-    },
-    {
-      "start_time": 62,
-      "end_time": 65,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Four fires tended by the oskapewisuk"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        }
-      ],
-      "uuid": "5a8747ab-174b-46bc-bd8d-821e1031504d"
     }
   ],
   "set": "Default",
