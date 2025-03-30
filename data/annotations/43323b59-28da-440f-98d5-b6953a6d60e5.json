@@ -2674,35 +2674,6 @@
         }
       ],
       "uuid": "866cc8f2-ed06-4f53-841d-96c97eab3b0d"
-    },
-    {
-      "start_time": 113,
-      "end_time": 117,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "that terrible, those terrible things that have happened to our woman"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "f8bd092b-3483-4863-8a24-18471e64d873"
     }
   ],
   "set": "Default",
