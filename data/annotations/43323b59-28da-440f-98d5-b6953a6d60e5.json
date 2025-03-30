@@ -2015,35 +2015,6 @@
       "uuid": "9497e3f0-2aec-40f2-9864-15791b9e4f85"
     },
     {
-      "start_time": 45,
-      "end_time": 48,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "An infant’s birth blood gushing"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        },
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        }
-      ],
-      "uuid": "60f08b23-7474-49c5-a304-d2b6efa9b9c2"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
