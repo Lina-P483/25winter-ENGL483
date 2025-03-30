@@ -2200,27 +2200,6 @@
         }
       ],
       "uuid": "b046e6a9-e494-4c2f-8626-cdbec93f3963"
-    },
-    {
-      "start_time": 61,
-      "end_time": 62,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "their vision."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "c9759593-094f-44d2-8d5d-a5c993ab3e3d"
     }
   ],
   "set": "Default",
