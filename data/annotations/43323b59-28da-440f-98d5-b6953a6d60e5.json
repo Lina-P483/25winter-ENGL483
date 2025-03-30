@@ -2848,35 +2848,6 @@
         }
       ],
       "uuid": "6c1310ae-dc2d-4a7e-98d7-2b6bd6293474"
-    },
-    {
-      "start_time": 146,
-      "end_time": 154,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "And we also, um, when we're talking about, uh, survival as aboriginal woman,"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "100f1016-5a72-4866-bcb5-b2e948ed816f"
     }
   ],
   "set": "Default",
