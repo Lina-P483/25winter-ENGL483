@@ -2379,27 +2379,6 @@
         }
       ],
       "uuid": "2fd663cd-24a8-4a5c-8985-2325218b1885"
-    },
-    {
-      "start_time": 78,
-      "end_time": 79,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "rip the heavens."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "0709d757-e097-4622-87f6-761f9b586de8"
     }
   ],
   "set": "Default",
