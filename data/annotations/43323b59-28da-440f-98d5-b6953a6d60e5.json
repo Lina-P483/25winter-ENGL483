@@ -1612,35 +1612,6 @@
       "uuid": "9bd3a9f1-5d1c-4af1-b120-92981fa6c9d7"
     },
     {
-      "start_time": 11,
-      "end_time": 13,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "sleeves uplifted in the branches."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Verse Structure",
-          "category": "Form"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "ef39d4de-3bf7-406f-b098-a4db01b0f85d"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
