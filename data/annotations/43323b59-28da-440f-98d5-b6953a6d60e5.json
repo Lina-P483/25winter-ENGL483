@@ -2554,39 +2554,6 @@
         }
       ],
       "uuid": "ff1b2b37-6c1d-4349-ba39-091afc61d469"
-    },
-    {
-      "start_time": 94,
-      "end_time": 96,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "coursing through our veins."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        },
-        {
-          "tag": "Verse Structure",
-          "category": "Form"
-        },
-        {
-          "tag": "Pitch",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "b7ef4a20-5907-4f61-a8b3-7fc3324c7fa2"
     }
   ],
   "set": "Default",
