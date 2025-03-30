@@ -1761,31 +1761,6 @@
       "uuid": "06a22872-16cb-41c6-adcf-c06019d63ba1"
     },
     {
-      "start_time": 22,
-      "end_time": 24,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Shoes, dresses, purses"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "5d2e486c-bf44-4ffe-bb47-a3adcb8756ad"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
