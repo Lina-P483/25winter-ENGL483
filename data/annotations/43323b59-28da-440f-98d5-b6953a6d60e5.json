@@ -2329,31 +2329,6 @@
         }
       ],
       "uuid": "c82e014b-dce1-4db9-8697-bbeaeaf807ce"
-    },
-    {
-      "start_time": 74,
-      "end_time": 76,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Prayer cloth offerings to the south"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Ambient Noise",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "727041cf-2f31-4ba0-9294-4c19aab25dde"
     }
   ],
   "set": "Default",
