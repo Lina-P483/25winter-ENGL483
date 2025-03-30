@@ -2246,31 +2246,6 @@
         }
       ],
       "uuid": "5a8747ab-174b-46bc-bd8d-821e1031504d"
-    },
-    {
-      "start_time": 66,
-      "end_time": 68,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "for four days mourning the truth"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "ef3ba3a6-4b3b-4d95-948b-082d3f221056"
     }
   ],
   "set": "Default",
