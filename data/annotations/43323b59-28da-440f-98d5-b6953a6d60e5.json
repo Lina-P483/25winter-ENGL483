@@ -3022,35 +3022,6 @@
         }
       ],
       "uuid": "fb3e6d21-89a8-4a2e-b15f-86a5f5905441"
-    },
-    {
-      "start_time": 188,
-      "end_time": 194,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "breathing apparatus here on Earth, has left their breath in the wind, so they're never,"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "38ae1421-7f99-42e8-9c99-cda69644dde7"
     }
   ],
   "set": "Default",
