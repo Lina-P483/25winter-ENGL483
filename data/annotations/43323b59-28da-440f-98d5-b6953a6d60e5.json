@@ -1678,31 +1678,6 @@
       "uuid": "ce800f84-855b-474e-b863-ef150211eca3"
     },
     {
-      "start_time": 15,
-      "end_time": 17,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Valentines, Anniversaries."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "f1a3fe2e-e633-4ff4-979d-8f4efb86a3c9"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
