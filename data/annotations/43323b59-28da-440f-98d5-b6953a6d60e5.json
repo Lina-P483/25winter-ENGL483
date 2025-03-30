@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Red"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Title"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "b91ce41a-65c9-4542-b686-4776e8d93c1d"
-    },
-    {
       "start_time": 1,
       "end_time": 3,
       "annotation": [
