@@ -2429,31 +2429,6 @@
         }
       ],
       "uuid": "e7c60e32-b654-4516-9d90-af9a05911ae6"
-    },
-    {
-      "start_time": 81,
-      "end_time": 83,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "racing through the tree"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "9bf62ffb-13e3-481a-b68c-a595ff8876d9"
     }
   ],
   "set": "Default",
