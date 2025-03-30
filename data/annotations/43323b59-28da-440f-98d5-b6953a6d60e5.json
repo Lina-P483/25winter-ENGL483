@@ -2964,35 +2964,6 @@
         }
       ],
       "uuid": "ef9a7b62-6441-4c81-949e-d683d41daf33"
-    },
-    {
-      "start_time": 172,
-      "end_time": 177,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "that, that life giving blood that is still coursing through our veins."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "3a894d80-c598-4a32-9431-2c88f22af785"
     }
   ],
   "set": "Default",
