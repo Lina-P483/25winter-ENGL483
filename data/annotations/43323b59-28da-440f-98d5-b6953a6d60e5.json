@@ -1612,39 +1612,6 @@
       "uuid": "d3f28123-11bb-4e71-a020-3d5487e9925d"
     },
     {
-      "start_time": 1,
-      "end_time": 3,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Beside the gravel drive way"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        },
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        }
-      ],
-      "uuid": "0c85c9a0-d658-4daa-88b1-1f8918b7be11"
-    },
-    {
       "start_time": 3,
       "end_time": 4,
       "annotation": [
