@@ -2525,35 +2525,6 @@
         }
       ],
       "uuid": "2fd684e2-59b3-4697-a46b-f61493e5cd6c"
-    },
-    {
-      "start_time": 92,
-      "end_time": 93,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The people’s blood"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        },
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        }
-      ],
-      "uuid": "ff1b2b37-6c1d-4349-ba39-091afc61d469"
     }
   ],
   "set": "Default",
