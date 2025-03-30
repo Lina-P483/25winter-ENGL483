@@ -2271,31 +2271,6 @@
         }
       ],
       "uuid": "ef3ba3a6-4b3b-4d95-948b-082d3f221056"
-    },
-    {
-      "start_time": 69,
-      "end_time": 70,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "at reconciliation gatherings."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "706d2641-74c6-4fb1-9315-f57f553e5304"
     }
   ],
   "set": "Default",
