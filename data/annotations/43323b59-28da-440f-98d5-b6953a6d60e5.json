@@ -1641,43 +1641,6 @@
       "uuid": "ef39d4de-3bf7-406f-b098-a4db01b0f85d"
     },
     {
-      "start_time": 13,
-      "end_time": 14,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Red."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        },
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        },
-        {
-          "tag": "Pitch",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "ce800f84-855b-474e-b863-ef150211eca3"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
