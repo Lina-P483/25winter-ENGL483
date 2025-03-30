@@ -2732,35 +2732,6 @@
         }
       ],
       "uuid": "983de96c-9a68-4064-8a54-d59b09edbfdb"
-    },
-    {
-      "start_time": 120,
-      "end_time": 124,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "but, um, we come from blood right? and we return, "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "cdb79293-3e39-4526-a135-9dc7b04eff65"
     }
   ],
   "set": "Default",
