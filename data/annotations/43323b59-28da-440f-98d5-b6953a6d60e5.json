@@ -1890,31 +1890,6 @@
       "uuid": "2881df11-1ccb-4a45-841a-5e6651f988b8"
     },
     {
-      "start_time": 33,
-      "end_time": 35,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "muskrat, moose or elk."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "7e31b090-d6b0-4a61-890f-2bbad5f9102e"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
