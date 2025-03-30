@@ -2044,27 +2044,6 @@
       "uuid": "60f08b23-7474-49c5-a304-d2b6efa9b9c2"
     },
     {
-      "start_time": 48,
-      "end_time": 49,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "from the tunnel of life."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "f8fb536c-552d-422e-aa8d-16687c2ff473"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
