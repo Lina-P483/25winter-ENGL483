@@ -2504,27 +2504,6 @@
         }
       ],
       "uuid": "a708e6c2-c870-4e75-a7c1-4deb22467425"
-    },
-    {
-      "start_time": 89,
-      "end_time": 91,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "in the Canadian Human Rights Museum."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "2fd684e2-59b3-4697-a46b-f61493e5cd6c"
     }
   ],
   "set": "Default",
