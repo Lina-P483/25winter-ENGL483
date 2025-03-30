@@ -2152,35 +2152,6 @@
       "uuid": "ae77b85e-0619-461e-abae-6a5beef1bac6"
     },
     {
-      "start_time": 57,
-      "end_time": 59,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "on a river’s cliffs, caves"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Ambient Noise",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        }
-      ],
-      "uuid": "6fef0660-bdd0-40d4-a689-2e13640b44f3"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
