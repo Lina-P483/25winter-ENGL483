@@ -2993,35 +2993,6 @@
         }
       ],
       "uuid": "3a894d80-c598-4a32-9431-2c88f22af785"
-    },
-    {
-      "start_time": 178,
-      "end_time": 188,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "We must understand, I think, that, um, all, all, everything and anything that has ever had a, um,"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "fb3e6d21-89a8-4a2e-b15f-86a5f5905441"
     }
   ],
   "set": "Default",
