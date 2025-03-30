@@ -2354,31 +2354,6 @@
         }
       ],
       "uuid": "727041cf-2f31-4ba0-9294-4c19aab25dde"
-    },
-    {
-      "start_time": 76,
-      "end_time": 78,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "where thunder and lightning"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Ambient Noise",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "2fd663cd-24a8-4a5c-8985-2325218b1885"
     }
   ],
   "set": "Default",
