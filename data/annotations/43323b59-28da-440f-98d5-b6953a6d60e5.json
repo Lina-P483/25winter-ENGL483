@@ -1990,31 +1990,6 @@
       "uuid": "85886f99-0302-4a2c-b9f4-d971b0780b3f"
     },
     {
-      "start_time": 43,
-      "end_time": 44,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "smoking dried meat."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Ambient Noise",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "9497e3f0-2aec-40f2-9864-15791b9e4f85"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
