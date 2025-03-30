@@ -2935,35 +2935,6 @@
         }
       ],
       "uuid": "0ad4e714-857d-40c1-9328-2b4c7d815066"
-    },
-    {
-      "start_time": 166,
-      "end_time": 172,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "it's really important to find this balance between what happened to our women and what happen"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "ef9a7b62-6441-4c81-949e-d683d41daf33"
     }
   ],
   "set": "Default",
