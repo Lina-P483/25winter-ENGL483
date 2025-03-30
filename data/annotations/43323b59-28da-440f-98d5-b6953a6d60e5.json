@@ -2790,35 +2790,6 @@
         }
       ],
       "uuid": "6694b71b-2c03-4c56-beab-64704136b720"
-    },
-    {
-      "start_time": 129,
-      "end_time": 140,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "is filled with, uh blood, and, um and, we also come from a very, very long history of cave paintings"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "e9d99a25-2e96-4307-b3b5-272c1cd501ca"
     }
   ],
   "set": "Default",
