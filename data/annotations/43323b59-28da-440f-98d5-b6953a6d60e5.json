@@ -2400,35 +2400,6 @@
         }
       ],
       "uuid": "0709d757-e097-4622-87f6-761f9b586de8"
-    },
-    {
-      "start_time": 80,
-      "end_time": 81,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Fire bolts"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "e7c60e32-b654-4516-9d90-af9a05911ae6"
     }
   ],
   "set": "Default",
