@@ -1865,31 +1865,6 @@
       "uuid": "c51b288d-e3f8-4359-8c38-acf2b25f6550"
     },
     {
-      "start_time": 30,
-      "end_time": 32,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "deer, rabbit, duck, beaver"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "2881df11-1ccb-4a45-841a-5e6651f988b8"
-    },
-    {
       "start_time": 60,
       "end_time": 61,
       "annotation": [
