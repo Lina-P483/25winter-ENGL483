@@ -1,1 +1,1 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://Lina-P483.github.io/25winter-ENGL483/manifests/collection.json","type":"Collection","label":{"en":["ENGL483"]},"items":[]}
+{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://Lina-P483.github.io/25winter-ENGL483/manifests/collection.json","type":"Collection","label":{"en":["ENGL483"]},"items":[{"id":"https://Lina-P483.github.io/25winter-ENGL483/manifests/red.json","type":"Manifest","label":{"en":["Red"]}}]}
