@@ -2877,35 +2877,6 @@
         }
       ],
       "uuid": "100f1016-5a72-4866-bcb5-b2e948ed816f"
-    },
-    {
-      "start_time": 155,
-      "end_time": 158,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "we have, we face so much, and people don't recognize it"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "8a225e17-598f-4a1e-8f7f-60671c7467cf"
     }
   ],
   "set": "Default",
