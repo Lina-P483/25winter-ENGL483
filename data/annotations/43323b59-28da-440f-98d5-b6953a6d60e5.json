@@ -2616,35 +2616,6 @@
         }
       ],
       "uuid": "afad9659-67a8-4ee9-98b0-5fa25cc3405c"
-    },
-    {
-      "start_time": 105,
-      "end_time": 109,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "it does address the missing and murdered aboriginal woman, right"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Context"
-        }
-      ],
-      "uuid": "157d57d3-ce9e-4d8e-91a1-d95b410122ff"
     }
   ],
   "set": "Default",
